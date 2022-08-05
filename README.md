@@ -77,4 +77,4 @@ def main():
 ## Contributing
 Pull requests are welcome and encouraged.
 
-Feel free to send me a message on [github](https://github.com/tammhw/) with any questions.
+Feel free to send me a message on [github](https://github.com/TamBot3000) with any questions.
